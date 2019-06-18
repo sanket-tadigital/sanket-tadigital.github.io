@@ -6,8 +6,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
+Hey this is a test for githib pages, I don't want to deal with stuff in real life.
 ## Header 2
 ### Header 3
 
